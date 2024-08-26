@@ -33,7 +33,7 @@ export function constructMetadata({
       shortcut: icons,
       apple: icons,
     },
-    metadataBase: new URL('https://scribepdf.vercel.app'),
+    metadataBase: new URL('https://seo-landing-page-tau.vercel.app'),
     ...(noIndex && {
       robots: {
         index: false,
